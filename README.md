@@ -11,7 +11,7 @@ git clone https://github.com/Sskki-exe/Darkercompact_xfwm4-theme.git
 sudo cp -R Darkercompact_xfwm4-theme/ /usr/share/themes/
 ```
 
-Then in the user configuration, change the Window Manager theme. 
+Then in the Window Manager Settings, change the Window Manager theme. 
 
 ## Features
 - 2px frame all around for resizing GTK3 apps without resizer grip
