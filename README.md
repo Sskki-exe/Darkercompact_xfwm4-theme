@@ -1,20 +1,19 @@
-Darkercompact_xfwm4-theme
-=======================
+# Darker Compact xfwm4 Theme
 
-![alt header](http://i.imgur.com/XlRncI3.jpg)
+![](screenshot.png)
 
-A version modified of Darkcompact_xfwm4-theme, using mainly *#000000* color for top bar and #666666 for controls.
-This is a *darker*, compact and minimalistic theme for XFCE desktop ( xfm4 windows-manager ) compatible with the ![Numix Archblue theme](https://github.com/cryptomaniac512/AUR-numix-themes-archblue-git).
+A version modified of [Darkcompact_xfwm4-theme](https://github.com/Deevad/Darkcompact_xfwm4-theme), using mainly **#000000** color for top bar and #666666 for controls.
+This is an **even darker**, compact and minimalistic theme for XFCE desktop ( xfm4 windows-manager ) compatible with the [Numix Archblue theme](https://github.com/cryptomaniac512/AUR-numix-themes-archblue-git).
 
-### Easy install :
-``git clone https://github.com/Sskki-exe/Darkercompact_xfwm4-theme.git``
-
-``sudo cp -R Darkercompact_xfwm4-theme/ /usr/share/themes/``
+## Installation
+```
+git clone https://github.com/Sskki-exe/Darkercompact_xfwm4-theme.git
+sudo cp -R Darkercompact_xfwm4-theme/ /usr/share/themes/
+```
 
 Then in the user configuration, change the Window Manager theme. 
 
-
-### Spec. : 
+## Features
 - 2px frame all around for resizing GTK3 apps without resizer grip
 - Compact header , 15px height !
 - Flexible layout ( you can move button, title in Windows Manager Preferences )
