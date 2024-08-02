@@ -1,4 +1,4 @@
-# Darker Compact xfwm4 Theme
+# DarkerCompact xfwm4 Theme
 
 ![](screenshot.png)
 
