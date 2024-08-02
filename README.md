@@ -3,7 +3,7 @@
 ![](screenshot.png)
 
 A version modified of [Deevad's Darkcompact_xfwm4-theme](https://github.com/Deevad/Darkcompact_xfwm4-theme), using mainly **#000000** color for top bar and #666666 for controls.
-This is an **even darker**, compact and minimalistic theme for XFCE desktop ( xfm4 windows-manager ) compatible with the [Numix Archblue theme](https://github.com/cryptomaniac512/AUR-numix-themes-archblue-git).
+This is an **even darker**, compact and minimalistic theme for XFCE desktop ( xfm4 windows-manager ).
 
 ## Installation
 ```
